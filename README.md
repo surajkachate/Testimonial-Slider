@@ -1,5 +1,5 @@
 # Testimonial Slider Project
-
+## Preview
 ![image](https://github.com/surajkachate/Testimonial-Slider/assets/89270012/0a6b65f7-28bb-4ba2-9ff4-0844761ef207)
 
 This project is a simple testimonial slider created using React.js and styled with Tailwind CSS. The testimonial slider is a common component found on many websites, allowing you to showcase customer feedback or reviews in an interactive and visually appealing way.
