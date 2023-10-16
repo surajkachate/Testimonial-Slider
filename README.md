@@ -5,9 +5,9 @@
 This project is a simple testimonial slider created using React.js and styled with Tailwind CSS. The testimonial slider is a common component found on many websites, allowing you to showcase customer feedback or reviews in an interactive and visually appealing way.
 
 ## Technologies Used
-**Framework:** [React.js](https://react.dev/) was used for building the dynamic testimonial slider.
-**CSS Framework:** [Tailwind CSS](https://tailwindcss.com/) was employed for rapid and responsive styling.
-**Tool:** [react-icons](https://react-icons.github.io/react-icons/) is a tool provided by React.js, simplifying the integration of various icons into the testimonial slider.
+**Framework:** [React.js](https://react.dev/) was used for building the dynamic testimonial slider.<br/>
+**CSS Framework:** [Tailwind CSS](https://tailwindcss.com/) was employed for rapid and responsive styling.</br>
+**Tool:** [react-icons](https://react-icons.github.io/react-icons/) is a tool provided by React.js, simplifying the integration of various icons into the testimonial slider.</br>
 
 ## Project Structure
 
@@ -23,15 +23,17 @@ testimonial-slider/
 │   │
 │   ├── App.js
 │   ├── index.js
-│   └── ...
+│   ├── data.js
+│   └── index.css
 │
 ├── public/
 │   ├── index.html
 │   └── robots.txt
 │
 ├── package.json
-├── README.md
-└── ...
+├── .gitignore
+├── package-lock.json
+└── tailwind.config.js
 ```
 
 ## Usage
